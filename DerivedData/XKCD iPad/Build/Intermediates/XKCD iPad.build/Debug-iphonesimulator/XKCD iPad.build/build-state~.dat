@@ -1,0 +1,556 @@
+TXKCD iPad
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/Info.plist /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCD\ iPad-Info.plist
+cDataModelVersionCompile /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/PopulateDb.momd /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/PopulateDb.xcdatamodeld
+cProcessPCH /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/PrecompiledHeaders/XKCD\ iPad-Prefix-easoyqvewofqahdlnwbbvrendpxe/XKCD\ iPad-Prefix.pch.pch XKCD\ iPad/XKCD\ iPad-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/PrecompiledHeaders/XKCD\ iPad-Prefix-dberjrdoipmbdmhbwyscfjxefdag/XKCD\ iPad-Prefix.pch.pch XKCD\ iPad/XKCD\ iPad-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+cCompileC DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/main.o /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/XKCDiPadAppDelegate.o /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCDiPadAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/XKCDiPadMasterViewController.o /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCDiPadMasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/XKCDiPadDetailViewController.o /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCDiPadDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cAnalyzeShallow /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/main.m
+cAnalyzeShallow /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCDiPadAppDelegate.m
+cAnalyzeShallow /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCDiPadMasterViewController.m
+cAnalyzeShallow /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCDiPadDetailViewController.m
+cLd /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/XKCD\ iPad normal i386
+cGenerateDSYMFile /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app.dSYM /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/XKCD\ iPad
+cCpResource XKCD\ iPad/Default.png DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/Default.png
+cCopyStringsFile /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/en.lproj/InfoPlist.strings XKCD\ iPad/en.lproj/InfoPlist.strings
+cCpResource XKCD\ iPad/Default@2x.png DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/Default@2x.png
+cCpResource XKCD\ iPad/Default-568h@2x.png DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/Default-568h@2x.png
+cCompileStoryboard /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/en.lproj/MainStoryboard.storyboard
+cCpResource XKCD\ iPad/xkcd_512x512.png DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/xkcd_512x512.png
+cCpResource XKCD\ iPad/XKCD_iPad.sqlite DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/XKCD_iPad.sqlite
+cTouch /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c000000005354B3DD0000000000000198
+t1398059997
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005323E6B300000000000003B4
+t1394861747
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005323E6BB000000000000019E
+t1394861755
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000005323E6BE00000000006CED60
+t1394861758
+s7138656
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005354B3880000000000446820
+t1398059912
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005323E6C0000000000088D8C0
+t1394861760
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005323E6C70000000001F1DE10
+t1394861767
+s32628240
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Intermediates/PrecompiledHeaders/XKCD iPad-Prefix-dberjrdoipmbdmhbwyscfjxefdag/XKCD iPad-Prefix.pch.pch
+t1423206419
+s5590696
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Intermediates/PrecompiledHeaders/XKCD iPad-Prefix-easoyqvewofqahdlnwbbvrendpxe/XKCD iPad-Prefix.pch.pch
+t1423206419
+s5590608
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Intermediates/XKCD iPad.build/Debug-iphonesimulator/XKCD iPad.build/Objects-normal/i386/XKCD iPad.LinkFileList
+c0000000054D4681200000000000002E7
+t1423206418
+s743
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Intermediates/XKCD iPad.build/Debug-iphonesimulator/XKCD iPad.build/Objects-normal/i386/XKCDiPadAppDelegate.o
+t1423206419
+s84288
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Intermediates/XKCD iPad.build/Debug-iphonesimulator/XKCD iPad.build/Objects-normal/i386/XKCDiPadDetailViewController.o
+t1423206419
+s56220
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Intermediates/XKCD iPad.build/Debug-iphonesimulator/XKCD iPad.build/Objects-normal/i386/XKCDiPadMasterViewController.o
+t1423206419
+s87948
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Intermediates/XKCD iPad.build/Debug-iphonesimulator/XKCD iPad.build/Objects-normal/i386/main.o
+t1423206419
+s3188
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Intermediates/XKCD iPad.build/Debug-iphonesimulator/XKCD iPad.build/StaticAnalyzer/XKCD iPad/XKCD iPad/normal/i386/XKCDiPadAppDelegate.plist
+t2
+s0
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Intermediates/XKCD iPad.build/Debug-iphonesimulator/XKCD iPad.build/StaticAnalyzer/XKCD iPad/XKCD iPad/normal/i386/XKCDiPadDetailViewController.plist
+t2
+s0
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Intermediates/XKCD iPad.build/Debug-iphonesimulator/XKCD iPad.build/StaticAnalyzer/XKCD iPad/XKCD iPad/normal/i386/XKCDiPadMasterViewController.plist
+t2
+s0
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Intermediates/XKCD iPad.build/Debug-iphonesimulator/XKCD iPad.build/StaticAnalyzer/XKCD iPad/XKCD iPad/normal/i386/main.plist
+t2
+s0
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app
+t1423206419
+s408
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app.dSYM
+t2
+s0
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/Default-568h@2x.png
+t1423206419
+s18594
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/Default.png
+t1423206419
+s6540
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/Default@2x.png
+t1423206419
+s16107
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/Info.plist
+t1423206418
+s1162
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/PkgInfo
+t1423206418
+s8
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/PopulateDb.momd
+t1423206418
+s170
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/XKCD iPad
+t1423206419
+s53892
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/XKCD_iPad.sqlite
+t1423206419
+s147456
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/en.lproj/InfoPlist.strings
+t1423206419
+s42
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/en.lproj/MainStoryboard.storyboardc
+t1423206420
+s204
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/xkcd_512x512.png
+t1423206419
+s77061
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/Default-568h@2x.png
+c0000000050748B2300000000000048A2
+t1349815075
+s18594
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/Default.png
+c0000000050748B23000000000000198C
+t1349815075
+s6540
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/Default@2x.png
+c0000000050748B230000000000003EEB
+t1349815075
+s16107
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/PopulateDb.xcdatamodeld
+c0000000051077ABF0000000000000088
+t1359444671
+s136
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCD iPad-Info.plist
+c000000005107785E00000000000006C2
+t1359444062
+s1730
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCD iPad-Prefix.pch
+c000000005107785E0000000000000163
+t1359444062
+s355
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCD_iPad.sqlite
+c00000000510D63F80000000000024000
+t1359832056
+s147456
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCDiPadAppDelegate.m
+c0000000051077E930000000000001C5C
+t1359445651
+s7260
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCDiPadDetailViewController.m
+c000000005107B00A0000000000000ABD
+t1359458314
+s2749
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCDiPadMasterViewController.m
+c00000000510D72930000000000002911
+t1359835795
+s10513
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/en.lproj/InfoPlist.strings
+c000000005107785E000000000000002D
+t1359444062
+s45
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/en.lproj/MainStoryboard.storyboard
+c0000000054D4681200000000000030D1
+t1423206418
+s12497
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/main.m
+c000000005107785E0000000000000154
+t1359444062
+s340
+
+N/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/xkcd_512x512.png
+c00000000502325580000000000012D05
+t1344480600
+s77061
+
+CAnalyzeShallow /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCDiPadAppDelegate.m
+s444899219.548383
+e444899219.624942
+r1
+xAnalyzeShallow
+x/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCDiPadAppDelegate.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Analyze (shallow) /Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCDiPadAppDelegate.m47"AnalyzeShallow XKCD\ iPad/XKCDiPadAppDelegate.m698a8c939f84ba41^cafc9f939f84ba41^---0#0#1#-19%DVTDocumentLocation2@98"file://localhost/Users/marc/Documents/src/x-code/iOS/XKCD%20iPad/XKCD%20iPad/XKCDiPadAppDelegate.m0000000000000000^4234"AnalyzeShallow XKCD\ iPad/XKCDiPadAppDelegate.m    cd "/Users/marc/Documents/src/x-code/iOS/XKCD iPad"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -pedantic -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-config -Xclang mode=shallow -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -mios-simulator-version-min=6.0 -iquote /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-generated-files.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-own-target-headers.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-all-target-headers.hmap -iquote /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-project-headers.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/DerivedSources/i386 -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/DerivedSources -Wall -F/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator -include /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/PrecompiledHeaders/XKCD\ iPad-Prefix-dberjrdoipmbdmhbwyscfjxefdag/XKCD\ iPad-Prefix.pch --analyze /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCDiPadAppDelegate.m -o /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/StaticAnalyzer/XKCD\ iPad/XKCD\ iPad/normal/i386/XKCDiPadAppDelegate.plist36"187C1C8A-F530-4B05-BC2E-B07F3EFFA5C0-
+b507BFDF9-BB9C-493F-AF78-8BC379001A95
+
+CAnalyzeShallow /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCDiPadDetailViewController.m
+s444899219.573561
+e444899219.628623
+r1
+xAnalyzeShallow
+x/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCDiPadDetailViewController.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Analyze (shallow) /Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCDiPadDetailViewController.m56"AnalyzeShallow XKCD\ iPad/XKCDiPadDetailViewController.m33f992939f84ba41^18eea0939f84ba41^---0#0#1#-19%DVTDocumentLocation2@107"file://localhost/Users/marc/Documents/src/x-code/iOS/XKCD%20iPad/XKCD%20iPad/XKCDiPadDetailViewController.m0000000000000000^4261"AnalyzeShallow XKCD\ iPad/XKCDiPadDetailViewController.m    cd "/Users/marc/Documents/src/x-code/iOS/XKCD iPad"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -pedantic -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-config -Xclang mode=shallow -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -mios-simulator-version-min=6.0 -iquote /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-generated-files.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-own-target-headers.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-all-target-headers.hmap -iquote /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-project-headers.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/DerivedSources/i386 -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/DerivedSources -Wall -F/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator -include /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/PrecompiledHeaders/XKCD\ iPad-Prefix-dberjrdoipmbdmhbwyscfjxefdag/XKCD\ iPad-Prefix.pch --analyze /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCDiPadDetailViewController.m -o /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/StaticAnalyzer/XKCD\ iPad/XKCD\ iPad/normal/i386/XKCDiPadDetailViewController.plist36"3DE9C49B-B48C-4313-8A5C-578FE7628081-
+b507BFDF9-BB9C-493F-AF78-8BC379001A95
+
+CAnalyzeShallow /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCDiPadMasterViewController.m
+s444899219.562535
+e444899219.634270
+r1
+xAnalyzeShallow
+x/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCDiPadMasterViewController.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Analyze (shallow) /Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCDiPadMasterViewController.m56"AnalyzeShallow XKCD\ iPad/XKCDiPadMasterViewController.m0b2490939f84ba41^c460a2939f84ba41^---0#0#1#-19%DVTDocumentLocation2@107"file://localhost/Users/marc/Documents/src/x-code/iOS/XKCD%20iPad/XKCD%20iPad/XKCDiPadMasterViewController.m0000000000000000^4261"AnalyzeShallow XKCD\ iPad/XKCDiPadMasterViewController.m    cd "/Users/marc/Documents/src/x-code/iOS/XKCD iPad"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -pedantic -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-config -Xclang mode=shallow -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -mios-simulator-version-min=6.0 -iquote /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-generated-files.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-own-target-headers.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-all-target-headers.hmap -iquote /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-project-headers.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/DerivedSources/i386 -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/DerivedSources -Wall -F/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator -include /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/PrecompiledHeaders/XKCD\ iPad-Prefix-dberjrdoipmbdmhbwyscfjxefdag/XKCD\ iPad-Prefix.pch --analyze /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCDiPadMasterViewController.m -o /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/StaticAnalyzer/XKCD\ iPad/XKCD\ iPad/normal/i386/XKCDiPadMasterViewController.plist36"CC5D7CA9-CC51-416C-B0E8-F819FA533543-
+b507BFDF9-BB9C-493F-AF78-8BC379001A95
+
+CAnalyzeShallow /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/main.m
+s444899219.540384
+e444899219.623809
+r1
+xAnalyzeShallow
+x/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Analyze (shallow) /Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/main.m32"AnalyzeShallow XKCD\ iPad/main.mb77e8a939f84ba41^96b39f939f84ba41^---0#0#1#-19%DVTDocumentLocation2@83"file://localhost/Users/marc/Documents/src/x-code/iOS/XKCD%20iPad/XKCD%20iPad/main.m0000000000000000^4189"AnalyzeShallow XKCD\ iPad/main.m    cd "/Users/marc/Documents/src/x-code/iOS/XKCD iPad"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -pedantic -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-config -Xclang mode=shallow -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -mios-simulator-version-min=6.0 -iquote /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-generated-files.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-own-target-headers.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-all-target-headers.hmap -iquote /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-project-headers.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/DerivedSources/i386 -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/DerivedSources -Wall -F/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator -include /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/PrecompiledHeaders/XKCD\ iPad-Prefix-dberjrdoipmbdmhbwyscfjxefdag/XKCD\ iPad-Prefix.pch --analyze /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/main.m -o /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/StaticAnalyzer/XKCD\ iPad/XKCD\ iPad/normal/i386/main.plist36"1FAF033E-D6A2-437D-9C23-806411AA5C12-
+b507BFDF9-BB9C-493F-AF78-8BC379001A95
+
+CBuild AST from /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCDiPadAppDelegate.m
+r0
+
+CBuild AST from /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCDiPadDetailViewController.m
+r0
+
+CBuild AST from /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCDiPadMasterViewController.m
+r0
+
+CBuild AST from /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc99087929f84ba41^2e0297929f84ba41^---0#1#1#--18"Check dependencies36"E4505365-8CFE-42D3-A90D-DA9EBCD3C13A-
+
+CCompileC DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/XKCDiPadAppDelegate.o /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCDiPadAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s444899219.360002
+e444899219.561131
+r1
+xCompileC
+xDerivedData/XKCD iPad/Build/Intermediates/XKCD iPad.build/Debug-iphonesimulator/XKCD iPad.build/Objects-normal/i386/XKCDiPadAppDelegate.o
+x/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCDiPadAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCDiPadAppDelegate.m
+d/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCDiPadAppDelegate.h
+d/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCDiPadMasterViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCDiPadAppDelegate.m250"CompileC DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/XKCDiPadAppDelegate.o XKCD\ iPad/XKCDiPadAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler75595c939f84ba41^c9ca8f939f84ba41^---0#0#1#-19%DVTDocumentLocation2@98"file://localhost/Users/marc/Documents/src/x-code/iOS/XKCD%20iPad/XKCD%20iPad/XKCDiPadAppDelegate.m0000000000000000^4072"CompileC DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/XKCDiPadAppDelegate.o XKCD\ iPad/XKCDiPadAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/marc/Documents/src/x-code/iOS/XKCD iPad"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -pedantic -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-generated-files.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-own-target-headers.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-all-target-headers.hmap -iquote /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-project-headers.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/DerivedSources/i386 -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/DerivedSources -Wall -F/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator -include /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/PrecompiledHeaders/XKCD\ iPad-Prefix-easoyqvewofqahdlnwbbvrendpxe/XKCD\ iPad-Prefix.pch -MMD -MT dependencies -MF /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/XKCDiPadAppDelegate.d --serialize-diagnostics /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/XKCDiPadAppDelegate.dia -c /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCDiPadAppDelegate.m -o /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/XKCDiPadAppDelegate.o36"AFEA7E0A-310F-4F61-88E8-1DFDB6DC6E3F-
+b507BFDF9-BB9C-493F-AF78-8BC379001A95
+
+CCompileC DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/XKCDiPadDetailViewController.o /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCDiPadDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s444899219.361191
+e444899219.546959
+r1
+xCompileC
+xDerivedData/XKCD iPad/Build/Intermediates/XKCD iPad.build/Debug-iphonesimulator/XKCD iPad.build/Objects-normal/i386/XKCDiPadDetailViewController.o
+x/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCDiPadDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCDiPadDetailViewController.m
+d/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCDiPadDetailViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCDiPadDetailViewController.m268"CompileC DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/XKCDiPadDetailViewController.o XKCD\ iPad/XKCDiPadDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercd925c939f84ba41^151e8c939f84ba41^---0#0#1#-19%DVTDocumentLocation2@107"file://localhost/Users/marc/Documents/src/x-code/iOS/XKCD%20iPad/XKCD%20iPad/XKCDiPadDetailViewController.m0000000000000000^4126"CompileC DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/XKCDiPadDetailViewController.o XKCD\ iPad/XKCDiPadDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/marc/Documents/src/x-code/iOS/XKCD iPad"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -pedantic -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-generated-files.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-own-target-headers.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-all-target-headers.hmap -iquote /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-project-headers.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/DerivedSources/i386 -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/DerivedSources -Wall -F/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator -include /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/PrecompiledHeaders/XKCD\ iPad-Prefix-easoyqvewofqahdlnwbbvrendpxe/XKCD\ iPad-Prefix.pch -MMD -MT dependencies -MF /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/XKCDiPadDetailViewController.d --serialize-diagnostics /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/XKCDiPadDetailViewController.dia -c /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCDiPadDetailViewController.m -o /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/XKCDiPadDetailViewController.o36"919708EF-C8C1-4B8C-8B3B-4A0386EECE8C-
+b507BFDF9-BB9C-493F-AF78-8BC379001A95
+
+CCompileC DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/XKCDiPadMasterViewController.o /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCDiPadMasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s444899219.360686
+e444899219.572261
+r1
+xCompileC
+xDerivedData/XKCD iPad/Build/Intermediates/XKCD iPad.build/Debug-iphonesimulator/XKCD iPad.build/Objects-normal/i386/XKCDiPadMasterViewController.o
+x/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCDiPadMasterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCDiPadMasterViewController.m
+d/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCDiPadMasterViewController.h
+d/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCDiPadDetailViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCDiPadMasterViewController.m268"CompileC DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/XKCDiPadMasterViewController.o XKCD\ iPad/XKCDiPadMasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7d765c939f84ba41^252393939f84ba41^---0#0#1#-19%DVTDocumentLocation2@107"file://localhost/Users/marc/Documents/src/x-code/iOS/XKCD%20iPad/XKCD%20iPad/XKCDiPadMasterViewController.m0000000000000000^4126"CompileC DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/XKCDiPadMasterViewController.o XKCD\ iPad/XKCDiPadMasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/marc/Documents/src/x-code/iOS/XKCD iPad"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -pedantic -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-generated-files.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-own-target-headers.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-all-target-headers.hmap -iquote /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-project-headers.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/DerivedSources/i386 -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/DerivedSources -Wall -F/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator -include /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/PrecompiledHeaders/XKCD\ iPad-Prefix-easoyqvewofqahdlnwbbvrendpxe/XKCD\ iPad-Prefix.pch -MMD -MT dependencies -MF /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/XKCDiPadMasterViewController.d --serialize-diagnostics /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/XKCDiPadMasterViewController.dia -c /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCDiPadMasterViewController.m -o /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/XKCDiPadMasterViewController.o36"745A2B0C-EA0F-4FBD-ABF0-A29F2B81FA6E-
+b507BFDF9-BB9C-493F-AF78-8BC379001A95
+
+CCompileC DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/main.o /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s444899219.359984
+e444899219.538865
+r1
+xCompileC
+xDerivedData/XKCD iPad/Build/Intermediates/XKCD iPad.build/Debug-iphonesimulator/XKCD iPad.build/Objects-normal/i386/main.o
+x/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/main.m
+d/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCDiPadAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/main.m220"CompileC DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/main.o XKCD\ iPad/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler624e5c939f84ba41^67f289939f84ba41^---0#0#1#-19%DVTDocumentLocation2@83"file://localhost/Users/marc/Documents/src/x-code/iOS/XKCD%20iPad/XKCD%20iPad/main.m0000000000000000^3982"CompileC DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/main.o XKCD\ iPad/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/marc/Documents/src/x-code/iOS/XKCD iPad"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -pedantic -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-generated-files.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-own-target-headers.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-all-target-headers.hmap -iquote /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-project-headers.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/DerivedSources/i386 -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/DerivedSources -Wall -F/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator -include /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/PrecompiledHeaders/XKCD\ iPad-Prefix-easoyqvewofqahdlnwbbvrendpxe/XKCD\ iPad-Prefix.pch -MMD -MT dependencies -MF /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/main.dia -c /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/main.m -o /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/main.o36"096CEFBB-AF04-47B7-9675-04CD95EF955E-
+b507BFDF9-BB9C-493F-AF78-8BC379001A95
+
+CCompileStoryboard /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/en.lproj/MainStoryboard.storyboard
+s444899219.839885
+e444899220.702290
+r1
+xCompileStoryboard
+x/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/en.lproj/MainStoryboard.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"CompileStoryboard XKCD\ iPad/en.lproj/MainStoryboard.storyboard63"CompileStoryboard XKCD\ iPad/en.lproj/MainStoryboard.storyboarda01ad7939f84ba41^6cccb3949f84ba41^---0#0#1#-19%DVTDocumentLocation2@111"file://localhost/Users/marc/Documents/src/x-code/iOS/XKCD%20iPad/XKCD%20iPad/en.lproj/MainStoryboard.storyboard0000000000000000^923"CompileStoryboard XKCD\ iPad/en.lproj/MainStoryboard.storyboard    cd "/Users/marc/Documents/src/x-code/iOS/XKCD iPad"    export IBSC_MINIMUM_COMPATIBILITY_VERSION=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/en.lproj/MainStoryboard.storyboardc /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/en.lproj/MainStoryboard.storyboard36"6977AC8B-9459-4B2F-9EA6-B9FC8AF99669-
+b507BFDF9-BB9C-493F-AF78-8BC379001A95
+
+CCopyStringsFile /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/en.lproj/InfoPlist.strings XKCD\ iPad/en.lproj/InfoPlist.strings
+s444899219.833733
+e444899219.838732
+r1
+xCopyStringsFile
+x/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/en.lproj/InfoPlist.strings
+xXKCD iPad/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy XKCD iPad/en.lproj/InfoPlist.strings155"CopyStringsFile DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/en.lproj/InfoPlist.strings XKCD\ iPad/en.lproj/InfoPlist.strings9b8dd5939f84ba41^b5c0d6939f84ba41^---0#0#1#-19%DVTDocumentLocation2@103"file://localhost/Users/marc/Documents/src/x-code/iOS/XKCD%20iPad/XKCD%20iPad/en.lproj/InfoPlist.strings0000000000000000^670"CopyStringsFile DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/en.lproj/InfoPlist.strings XKCD\ iPad/en.lproj/InfoPlist.strings    cd "/Users/marc/Documents/src/x-code/iOS/XKCD iPad"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/en.lproj -- XKCD\ iPad/en.lproj/InfoPlist.strings36"978B1732-299D-4000-9547-E98CD4B79E7C-
+b507BFDF9-BB9C-493F-AF78-8BC379001A95
+
+CCpResource XKCD\ iPad/Default-568h@2x.png DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/Default-568h@2x.png
+s444899219.834038
+e444899219.840556
+r1
+xCpResource
+xXKCD iPad/Default-568h@2x.png
+xDerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/Default-568h@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/Default-568h@2x.png136"CpResource XKCD\ iPad/Default-568h@2x.png DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/Default-568h@2x.png5a9cd5939f84ba41^8d41d7939f84ba41^---0#0#1#-19%DVTDocumentLocation2@161"file://localhost/Users/marc/Documents/src/x-code/iOS/XKCD%20iPad/DerivedData/XKCD%20iPad/Build/Products/Debug-iphonesimulator/XKCD%20iPad.app/Default-568h@2x.png0038a445ddffdf42^702"CpResource XKCD\ iPad/Default-568h@2x.png DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/Default-568h@2x.png    cd "/Users/marc/Documents/src/x-code/iOS/XKCD iPad"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/Default-568h@2x.png /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app36"6DBC3401-708C-4E2A-8A11-3C015DA308E0-
+b507BFDF9-BB9C-493F-AF78-8BC379001A95
+
+CCpResource XKCD\ iPad/Default.png DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/Default.png
+s444899219.833726
+e444899219.839147
+r1
+xCpResource
+xXKCD iPad/Default.png
+xDerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/Default.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/Default.png120"CpResource XKCD\ iPad/Default.png DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/Default.png008ed5939f84ba41^8dd5d6939f84ba41^---0#0#1#-19%DVTDocumentLocation2@153"file://localhost/Users/marc/Documents/src/x-code/iOS/XKCD%20iPad/DerivedData/XKCD%20iPad/Build/Products/Debug-iphonesimulator/XKCD%20iPad.app/Default.png0038a445ddffdf42^678"CpResource XKCD\ iPad/Default.png DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/Default.png    cd "/Users/marc/Documents/src/x-code/iOS/XKCD iPad"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/Default.png /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app36"010C66D2-BB84-41E5-84F6-F001611190D0-
+b507BFDF9-BB9C-493F-AF78-8BC379001A95
+
+CCpResource XKCD\ iPad/Default@2x.png DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/Default@2x.png
+s444899219.833773
+e444899219.838663
+r1
+xCpResource
+xXKCD iPad/Default@2x.png
+xDerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/Default@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/Default@2x.png126"CpResource XKCD\ iPad/Default@2x.png DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/Default@2x.png3691d5939f84ba41^5ebdd6939f84ba41^---0#0#1#-19%DVTDocumentLocation2@156"file://localhost/Users/marc/Documents/src/x-code/iOS/XKCD%20iPad/DerivedData/XKCD%20iPad/Build/Products/Debug-iphonesimulator/XKCD%20iPad.app/Default@2x.png0038a445ddffdf42^687"CpResource XKCD\ iPad/Default@2x.png DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/Default@2x.png    cd "/Users/marc/Documents/src/x-code/iOS/XKCD iPad"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/Default@2x.png /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app36"A8B79553-E05B-447A-9969-493F9A23F3CC-
+b507BFDF9-BB9C-493F-AF78-8BC379001A95
+
+CCpResource XKCD\ iPad/XKCD_iPad.sqlite DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/XKCD_iPad.sqlite
+s444899219.840392
+e444899219.846226
+r1
+xCpResource
+xXKCD iPad/XKCD_iPad.sqlite
+xDerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/XKCD_iPad.sqlite
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/XKCD_iPad.sqlite130"CpResource XKCD\ iPad/XKCD_iPad.sqlite DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/XKCD_iPad.sqlited235d7939f84ba41^eca2d8939f84ba41^---0#0#1#-19%DVTDocumentLocation2@158"file://localhost/Users/marc/Documents/src/x-code/iOS/XKCD%20iPad/DerivedData/XKCD%20iPad/Build/Products/Debug-iphonesimulator/XKCD%20iPad.app/XKCD_iPad.sqlite0038a445ddffdf42^693"CpResource XKCD\ iPad/XKCD_iPad.sqlite DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/XKCD_iPad.sqlite    cd "/Users/marc/Documents/src/x-code/iOS/XKCD iPad"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCD_iPad.sqlite /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app36"3C0C11ED-4D49-449E-B3DC-7AC7C32643B8-
+b507BFDF9-BB9C-493F-AF78-8BC379001A95
+
+CCpResource XKCD\ iPad/xkcd_512x512.png DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/xkcd_512x512.png
+s444899219.840327
+e444899219.844302
+r1
+xCpResource
+xXKCD iPad/xkcd_512x512.png
+xDerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/xkcd_512x512.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/xkcd_512x512.png130"CpResource XKCD\ iPad/xkcd_512x512.png DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/xkcd_512x512.png5034d7939f84ba41^302bd8939f84ba41^---0#0#1#-19%DVTDocumentLocation2@158"file://localhost/Users/marc/Documents/src/x-code/iOS/XKCD%20iPad/DerivedData/XKCD%20iPad/Build/Products/Debug-iphonesimulator/XKCD%20iPad.app/xkcd_512x512.png0038a445ddffdf42^693"CpResource XKCD\ iPad/xkcd_512x512.png DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/xkcd_512x512.png    cd "/Users/marc/Documents/src/x-code/iOS/XKCD iPad"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/xkcd_512x512.png /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app36"E4C0915A-4675-4286-8BC6-A9239CD6AFAE-
+b507BFDF9-BB9C-493F-AF78-8BC379001A95
+
+CDataModelVersionCompile /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/PopulateDb.momd /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/PopulateDb.xcdatamodeld
+s444899218.619338
+e444899218.860337
+r1
+xDataModelVersionCompile
+x/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/PopulateDb.momd
+x/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/PopulateDb.xcdatamodeld
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection149"DataModelVersionCompile DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/PopulateDb.momd XKCD\ iPad/PopulateDb.xcdatamodeld149"DataModelVersionCompile DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/PopulateDb.momd XKCD\ iPad/PopulateDb.xcdatamodeldfbea9e929f84ba41^3e3fdc929f84ba41^---0#0#1#-19%DVTDocumentLocation2@101"file://localhost/Users/marc/Documents/src/x-code/iOS/XKCD%20iPad/XKCD%20iPad/PopulateDb.xcdatamodeld/0000000000000000^979"DataModelVersionCompile DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/PopulateDb.momd XKCD\ iPad/PopulateDb.xcdatamodeld    cd "/Users/marc/Documents/src/x-code/iOS/XKCD iPad"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -XD_MOMC_IOS_TARGET_VERSION=6.0 -MOMC_PLATFORMS iphonesimulator -MOMC_PLATFORMS iphoneos -XD_MOMC_TARGET_VERSION=10.6 /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/PopulateDb.xcdatamodeld /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/PopulateDb.momd36"22249E23-2EF3-42F3-8410-28308BA613F4-
+b507BFDF9-BB9C-493F-AF78-8BC379001A95
+
+CGenerateDSYMFile /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app.dSYM /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/XKCD\ iPad
+s444899219.786999
+e444899219.825137
+r1
+xGenerateDSYMFile
+x/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app.dSYM
+x/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/XKCD iPad
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Generate /Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app.dSYM182"GenerateDSYMFile DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app.dSYM DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/XKCD\ iPad7e90c9939f84ba41^823cd3939f84ba41^---0#0#1#-19%DVTDocumentLocation2@146"file://localhost/Users/marc/Documents/src/x-code/iOS/XKCD%20iPad/DerivedData/XKCD%20iPad/Build/Products/Debug-iphonesimulator/XKCD%20iPad.app.dSYM0038a445ddffdf42^799"GenerateDSYMFile DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app.dSYM DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/XKCD\ iPad    cd "/Users/marc/Documents/src/x-code/iOS/XKCD iPad"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/XKCD\ iPad -o /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app.dSYM36"1449A42A-E9A1-44E2-A08E-35B48DC64CA7-
+b507BFDF9-BB9C-493F-AF78-8BC379001A95
+
+CLd /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/XKCD\ iPad normal i386
+s444899219.642388
+e444899219.778017
+r1
+xLd
+x/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/XKCD iPad
+xnormal
+xi386
+d/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Intermediates/XKCD iPad.build/Debug-iphonesimulator/XKCD iPad.build/Objects-normal/i386/XKCD iPad.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Intermediates/XKCD iPad.build/Debug-iphonesimulator/XKCD iPad.build/Objects-normal/i386/main.o
+d/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Intermediates/XKCD iPad.build/Debug-iphonesimulator/XKCD iPad.build/Objects-normal/i386/XKCDiPadAppDelegate.o
+d/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Intermediates/XKCD iPad.build/Debug-iphonesimulator/XKCD iPad.build/Objects-normal/i386/XKCDiPadMasterViewController.o
+d/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Intermediates/XKCD iPad.build/Debug-iphonesimulator/XKCD iPad.build/Objects-normal/i386/XKCDiPadDetailViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Link /Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/XKCD iPad100"Ld DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/XKCD\ iPad normal i386029aa4939f84ba41^1b2dc7939f84ba41^---0#0#1#--1632"Ld DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/XKCD\ iPad normal i386    cd "/Users/marc/Documents/src/x-code/iOS/XKCD iPad"    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator -F/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator -filelist /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/XKCD\ iPad.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework UIKit -framework Foundation -framework CoreGraphics -framework CoreData -Xlinker -dependency_info -Xlinker /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/Objects-normal/i386/XKCD\ iPad_dependency_info.dat -o /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/XKCD\ iPad36"807BC22B-4BD8-47C4-B9FF-41FB5F4757EE-
+b507BFDF9-BB9C-493F-AF78-8BC379001A95
+
+CProcessInfoPlistFile /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/Info.plist /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCD\ iPad-Info.plist
+s444899218.601036
+e444899218.610529
+r1
+xProcessInfoPlistFile
+x/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app/Info.plist
+x/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCD iPad-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Process /Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCD iPad-Info.plist139"ProcessInfoPlistFile DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/Info.plist XKCD\ iPad/XKCD\ iPad-Info.plist0af39a929f84ba41^80629c929f84ba41^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/marc/Documents/src/x-code/iOS/XKCD%20iPad/XKCD%20iPad/XKCD%20iPad-Info.plist0000000000000000^843"ProcessInfoPlistFile DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/Info.plist XKCD\ iPad/XKCD\ iPad-Info.plist    cd "/Users/marc/Documents/src/x-code/iOS/XKCD iPad"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCD\ iPad-Info.plist -genpkginfo /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app/Info.plist36"D4BF364A-55B0-42C0-BAD1-D7EE59CF9B33-
+b507BFDF9-BB9C-493F-AF78-8BC379001A95
+
+CProcessPCH /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/PrecompiledHeaders/XKCD\ iPad-Prefix-dberjrdoipmbdmhbwyscfjxefdag/XKCD\ iPad-Prefix.pch.pch XKCD\ iPad/XKCD\ iPad-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s444899218.622587
+e444899219.351288
+r1
+xProcessPCH
+x/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Intermediates/PrecompiledHeaders/XKCD iPad-Prefix-dberjrdoipmbdmhbwyscfjxefdag/XKCD iPad-Prefix.pch.pch
+xXKCD iPad/XKCD iPad-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile XKCD iPad/XKCD iPad-Prefix.pch246"ProcessPCH DerivedData/XKCD\ iPad/Build/Intermediates/PrecompiledHeaders/XKCD\ iPad-Prefix-dberjrdoipmbdmhbwyscfjxefdag/XKCD\ iPad-Prefix.pch.pch XKCD\ iPad/XKCD\ iPad-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzerd47e9f929f84ba41^2cf459939f84ba41^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/marc/Documents/src/x-code/iOS/XKCD%20iPad/XKCD%20iPad/XKCD%20iPad-Prefix.pch0000000000000000^4206"ProcessPCH DerivedData/XKCD\ iPad/Build/Intermediates/PrecompiledHeaders/XKCD\ iPad-Prefix-dberjrdoipmbdmhbwyscfjxefdag/XKCD\ iPad-Prefix.pch.pch XKCD\ iPad/XKCD\ iPad-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer    cd "/Users/marc/Documents/src/x-code/iOS/XKCD iPad"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -pedantic -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-config -Xclang mode=shallow -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -mios-simulator-version-min=6.0 -iquote /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-generated-files.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-own-target-headers.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-all-target-headers.hmap -iquote /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-project-headers.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/DerivedSources/i386 -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/DerivedSources -Wall -F/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator -c /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCD\ iPad-Prefix.pch -o /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/PrecompiledHeaders/XKCD\ iPad-Prefix-dberjrdoipmbdmhbwyscfjxefdag/XKCD\ iPad-Prefix.pch.pch36"DC870076-0415-4575-8E84-DF172248DD5F-
+b507BFDF9-BB9C-493F-AF78-8BC379001A95
+
+CProcessPCH /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/PrecompiledHeaders/XKCD\ iPad-Prefix-easoyqvewofqahdlnwbbvrendpxe/XKCD\ iPad-Prefix.pch.pch XKCD\ iPad/XKCD\ iPad-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s444899218.621037
+e444899219.346519
+r1
+xProcessPCH
+x/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Intermediates/PrecompiledHeaders/XKCD iPad-Prefix-easoyqvewofqahdlnwbbvrendpxe/XKCD iPad-Prefix.pch.pch
+xXKCD iPad/XKCD iPad-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/marc/Documents/src/x-code/iOS/XKCD iPad/XKCD iPad/XKCD iPad-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile XKCD iPad/XKCD iPad-Prefix.pch246"ProcessPCH DerivedData/XKCD\ iPad/Build/Intermediates/PrecompiledHeaders/XKCD\ iPad-Prefix-easoyqvewofqahdlnwbbvrendpxe/XKCD\ iPad-Prefix.pch.pch XKCD\ iPad/XKCD\ iPad-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler84119f929f84ba41^ddb558939f84ba41^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/marc/Documents/src/x-code/iOS/XKCD%20iPad/XKCD%20iPad/XKCD%20iPad-Prefix.pch0000000000000000^3865"ProcessPCH DerivedData/XKCD\ iPad/Build/Intermediates/PrecompiledHeaders/XKCD\ iPad-Prefix-easoyqvewofqahdlnwbbvrendpxe/XKCD\ iPad-Prefix.pch.pch XKCD\ iPad/XKCD\ iPad-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/marc/Documents/src/x-code/iOS/XKCD iPad"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -pedantic -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-generated-files.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-own-target-headers.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-all-target-headers.hmap -iquote /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/XKCD\ iPad-project-headers.hmap -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/DerivedSources/i386 -I/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/XKCD\ iPad.build/Debug-iphonesimulator/XKCD\ iPad.build/DerivedSources -Wall -F/Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/PrecompiledHeaders/XKCD\ iPad-Prefix-easoyqvewofqahdlnwbbvrendpxe/XKCD\ iPad-Prefix.pch.dia -MMD -MT dependencies -MF /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/PrecompiledHeaders/XKCD\ iPad-Prefix-easoyqvewofqahdlnwbbvrendpxe/XKCD\ iPad-Prefix.pch.d -c /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/XKCD\ iPad/XKCD\ iPad-Prefix.pch -o /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Intermediates/PrecompiledHeaders/XKCD\ iPad-Prefix-easoyqvewofqahdlnwbbvrendpxe/XKCD\ iPad-Prefix.pch.pch36"2084A18F-1E8F-4A5D-B004-21CD035E9C8B-
+b507BFDF9-BB9C-493F-AF78-8BC379001A95
+
+CProcessPCH /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Index/PrecompiledHeaders/XKCD\ iPad-Prefix-cgvvakzrxjtkikgvsrztchrerzmg_ast/XKCD\ iPad-Prefix.pch.pch XKCD\ iPad/XKCD\ iPad-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app
+s444899220.710836
+e444899220.718288
+r1
+xTouch
+x/Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Touch /Users/marc/Documents/src/x-code/iOS/XKCD iPad/DerivedData/XKCD iPad/Build/Products/Debug-iphonesimulator/XKCD iPad.app80"Touch DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app1b0fb6949f84ba41^cae1b7949f84ba41^---0#0#1#--477"Touch DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app    cd "/Users/marc/Documents/src/x-code/iOS/XKCD iPad"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/marc/Documents/src/x-code/iOS/XKCD\ iPad/DerivedData/XKCD\ iPad/Build/Products/Debug-iphonesimulator/XKCD\ iPad.app36"63509974-F46A-40FB-836B-9DD685AE73C7-
+b507BFDF9-BB9C-493F-AF78-8BC379001A95
+
